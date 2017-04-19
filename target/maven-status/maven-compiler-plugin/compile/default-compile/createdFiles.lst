@@ -1,0 +1,15 @@
+com/capita/finder/data/ReaderMarc.class
+com/capita/finder/utils/Constants.class
+com/capita/finder/dao/BookDaoImpl$BookMapper.class
+com/capita/finder/servlet/WebInitializer.class
+com/capita/finder/dao/BookDao.class
+com/capita/finder/data/ReaderCSV.class
+com/capita/finder/dao/BookDaoImpl$1.class
+com/capita/finder/dao/BookDaoImpl.class
+com/capita/finder/data/Reader.class
+com/capita/finder/web/WelcomeController.class
+com/capita/finder/config/SpringWebConfig.class
+com/capita/finder/config/SpringRootConfig.class
+com/capita/finder/config/db/HsqlDataSource.class
+com/capita/finder/domain/Book.class
+com/capita/finder/resources/SearchResource.class

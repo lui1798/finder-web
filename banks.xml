@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<marc:record><marc:leader>00406ca  a2200169   4504</marc:leader>
+<marc:controlfield tag="002">seq00274712</marc:controlfield>
+
+<marc:controlfield tag="008">890510s1986                      1      </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">89004084</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0-312-02881-4</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">BPL/9</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">The bridge.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a"></marc:subfield>
+<marc:subfield code="b">St. Martin's Press,</marc:subfield>
+<marc:subfield code="c">c1986.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">259 p.:</marc:subfield>
+<marc:subfield code="c">22 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b10902508</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bm</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">2</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">-</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">4</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00911cam a22003258a 4504</marc:leader>
+<marc:controlfield tag="001">MDE00030785</marc:controlfield>
+
+<marc:controlfield tag="002">seq00000705</marc:controlfield>
+
+<marc:controlfield tag="003">MDE</marc:controlfield>
+
+<marc:controlfield tag="005">20001213110025.0</marc:controlfield>
+
+<marc:controlfield tag="008">001212t20001999nyu    g      000 1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">00030785</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0743200144</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">MDE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="043" ind1=" " ind2=" ">
+<marc:subfield code="a">t------</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">B87 2000</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">The business :</marc:subfield>
+<marc:subfield code="b">a novel /</marc:subfield>
+<marc:subfield code="c">Iain Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="b">Simon &amp; Schuster,</marc:subfield>
+<marc:subfield code="c">c2000.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">393 p.;</marc:subfield>
+<marc:subfield code="c">25 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Suspense fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Women executives</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">International business enterprises</marc:subfield>
+<marc:subfield code="x">Employees</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="651" ind1=" " ind2="0">
+<marc:subfield code="a">Antarctica</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">International business enterprises</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b13815222</marc:subfield>
+<marc:subfield code="b">md</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">md</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">0</marc:subfield>
+<marc:subfield code="c">001227</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">4</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">b2000/12/27 b017 cf oc</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">001213</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">4</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">mde2000/9 es nb</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00911cam a22003258a 4504</marc:leader>
+<marc:controlfield tag="001">MDE00030785</marc:controlfield>
+
+<marc:controlfield tag="002">seq00000705</marc:controlfield>
+
+<marc:controlfield tag="003">MDE</marc:controlfield>
+
+<marc:controlfield tag="005">20001213110025.0</marc:controlfield>
+
+<marc:controlfield tag="008">001212t20001999nyu    g      000 1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">00030785</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0743200144</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">MDE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="043" ind1=" " ind2=" ">
+<marc:subfield code="a">t------</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">B87 2000</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">The business :</marc:subfield>
+<marc:subfield code="b">a novel /</marc:subfield>
+<marc:subfield code="c">Iain Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="b">Simon &amp; Schuster,</marc:subfield>
+<marc:subfield code="c">c2000.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">393 p.;</marc:subfield>
+<marc:subfield code="c">25 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Suspense fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Women executives</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">International business enterprises</marc:subfield>
+<marc:subfield code="x">Employees</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="651" ind1=" " ind2="0">
+<marc:subfield code="a">Antarctica</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">International business enterprises</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b13824922</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">md</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">0</marc:subfield>
+<marc:subfield code="c">001227</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">4</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">b2000/12/27 b017 cf oc</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">001213</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">4</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">mde2000/9 es nb</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00507ca  a2200193   4504</marc:leader>
+<marc:controlfield tag="002">seq00281509</marc:controlfield>
+
+<marc:controlfield tag="008">911019s1991    nyu           000 1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">90029107</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0385418140</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">BPL/16</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Canal dreams/</marc:subfield>
+<marc:subfield code="c">by Iain Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">New York:</marc:subfield>
+<marc:subfield code="b">Doubleday,</marc:subfield>
+<marc:subfield code="c">1991.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">198 p.;</marc:subfield>
+<marc:subfield code="c">22 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Terrorism</marc:subfield>
+<marc:subfield code="z">Latin America</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Hostages</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b1112989x</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bm</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">-</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00519nam a2200205   4504</marc:leader>
+<marc:controlfield tag="002">seq00089912</marc:controlfield>
+
+<marc:controlfield tag="008">                                        </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">87036718</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0312017529</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">MDE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Consider Phlebas/</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a"></marc:subfield>
+<marc:subfield code="b">St. Martin's Press,</marc:subfield>
+<marc:subfield code="c">c1987.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1=" " ind2=" ">
+<marc:subfield code="a">MDE: Science fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b10813330</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">z</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bm</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">md</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">3</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">z</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00519nam a2200205   4504</marc:leader>
+<marc:controlfield tag="002">seq00089912</marc:controlfield>
+
+<marc:controlfield tag="008">                                        </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">87036718</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0312017529</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">MDE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Consider Phlebas/</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a"></marc:subfield>
+<marc:subfield code="b">St. Martin's Press,</marc:subfield>
+<marc:subfield code="c">c1987.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1=" " ind2=" ">
+<marc:subfield code="a">MDE: Science fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b1332679x</marc:subfield>
+<marc:subfield code="b">md</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bm</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">md</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">3</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">z</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00394ca  a22001573  4504</marc:leader>
+<marc:controlfield tag="002">seq00111830</marc:controlfield>
+
+<marc:controlfield tag="008">930925s1993                      1      </marc:controlfield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0349103232 (pbk.)</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a"></marc:subfield>
+<marc:subfield code="d">BPL/17</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">The crow road:</marc:subfield>
+<marc:subfield code="b">[a novel]/</marc:subfield>
+<marc:subfield code="c">Iain Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a"></marc:subfield>
+<marc:subfield code="b">Abacus,</marc:subfield>
+<marc:subfield code="c">1993.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">501 p.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b11362297</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bm</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">-</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">4</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00501cam a22001933  4504</marc:leader>
+<marc:controlfield tag="002">seq00126415</marc:controlfield>
+
+<marc:controlfield tag="008">970505s1997           g          1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">96031659</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0553374605 (pbk.)</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a"></marc:subfield>
+<marc:subfield code="d">BPL/17</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Excession /</marc:subfield>
+<marc:subfield code="c">Iain Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a"></marc:subfield>
+<marc:subfield code="b">Bantam,</marc:subfield>
+<marc:subfield code="c">1997.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">390 p.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="7">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+<marc:subfield code="2">gsafd.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b11790404</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">z</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bg</marc:subfield>
+<marc:subfield code="l">bm</marc:subfield>
+<marc:subfield code="l">be</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">5</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">z</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1="7" ind2="0">
+<marc:subfield code="a">071314  05/05/97 08:57:15   646</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00905cam a2200325 a 4504</marc:leader>
+<marc:controlfield tag="001">mde95004158 //r95</marc:controlfield>
+
+<marc:controlfield tag="002">seq00120137</marc:controlfield>
+
+<marc:controlfield tag="003">DLC</marc:controlfield>
+
+<marc:controlfield tag="005">1996030768244.6484.0</marc:controlfield>
+
+<marc:controlfield tag="008">950621s1995    nyu    g      000 1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">95004158 //r95</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">95004158</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0553374591 (pbk.) :</marc:subfield>
+<marc:subfield code="c">$19.00</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0553374591 (pbk.)</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DLC</marc:subfield>
+<marc:subfield code="c">DLC</marc:subfield>
+<marc:subfield code="d">DLC</marc:subfield>
+<marc:subfield code="d">OCoLC</marc:subfield>
+<marc:subfield code="d">MDE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">F44 1995</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="082" ind1="0" ind2="0">
+<marc:subfield code="a">823/.914</marc:subfield>
+<marc:subfield code="2">20</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Feersum endjinn /</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="250" ind1=" " ind2=" ">
+<marc:subfield code="a">Bantam trade paperback ed.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">New York :</marc:subfield>
+<marc:subfield code="b">Bantam Books,</marc:subfield>
+<marc:subfield code="c">1995.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">311 p. ;</marc:subfield>
+<marc:subfield code="c">23 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="7">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+<marc:subfield code="2">gsafd.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b1157477x</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">z</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bg</marc:subfield>
+<marc:subfield code="l">bm</marc:subfield>
+<marc:subfield code="l">be</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">mdq</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">3</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">z</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1="0" ind2="0">
+<marc:subfield code="a">99553  07/28/95 10:36:31   646</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">010927</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">MDEODC 2001 kk</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00905cam a2200325 a 4504</marc:leader>
+<marc:controlfield tag="001">mde95004158 //r95</marc:controlfield>
+
+<marc:controlfield tag="002">seq00120137</marc:controlfield>
+
+<marc:controlfield tag="003">DLC</marc:controlfield>
+
+<marc:controlfield tag="005">1996030768244.6484.0</marc:controlfield>
+
+<marc:controlfield tag="008">950621s1995    nyu    g      000 1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">95004158 //r95</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">95004158</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0553374591 (pbk.) :</marc:subfield>
+<marc:subfield code="c">$19.00</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0553374591 (pbk.)</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DLC</marc:subfield>
+<marc:subfield code="c">DLC</marc:subfield>
+<marc:subfield code="d">DLC</marc:subfield>
+<marc:subfield code="d">OCoLC</marc:subfield>
+<marc:subfield code="d">MDE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">F44 1995</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="082" ind1="0" ind2="0">
+<marc:subfield code="a">823/.914</marc:subfield>
+<marc:subfield code="2">20</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Feersum endjinn /</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="250" ind1=" " ind2=" ">
+<marc:subfield code="a">Bantam trade paperback ed.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">New York :</marc:subfield>
+<marc:subfield code="b">Bantam Books,</marc:subfield>
+<marc:subfield code="c">1995.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">311 p. ;</marc:subfield>
+<marc:subfield code="c">23 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="7">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+<marc:subfield code="2">gsafd.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b14346059</marc:subfield>
+<marc:subfield code="b">md</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bg</marc:subfield>
+<marc:subfield code="l">bm</marc:subfield>
+<marc:subfield code="l">be</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">mdq</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">3</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">z</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1="0" ind2="0">
+<marc:subfield code="a">99553  07/28/95 10:36:31   646</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">010927</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">MDEODC 2001 kk</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00602nam a22002298a 4504</marc:leader>
+<marc:controlfield tag="001">mde99051901</marc:controlfield>
+
+<marc:controlfield tag="002">seq00159097</marc:controlfield>
+
+<marc:controlfield tag="005">19991103113551.0</marc:controlfield>
+
+<marc:controlfield tag="008">991012r20001998nyu    g      000 1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">99051901</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0671036688 :</marc:subfield>
+<marc:subfield code="c">$23.95</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DLC</marc:subfield>
+<marc:subfield code="c">DLC</marc:subfield>
+<marc:subfield code="d">MDE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">I58 2000</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="082" ind1="0" ind2="0">
+<marc:subfield code="a">823 /.914</marc:subfield>
+<marc:subfield code="2">21</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Inversions /</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">New York :</marc:subfield>
+<marc:subfield code="b">Pocket Books,</marc:subfield>
+<marc:subfield code="c">2000.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="7">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+<marc:subfield code="2">gsafd.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b14345894</marc:subfield>
+<marc:subfield code="b">md</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">md</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">010927</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">MDEODC 2001 am</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00467nam a22001813  4504</marc:leader>
+<marc:controlfield tag="002">seq00129704</marc:controlfield>
+
+<marc:controlfield tag="008">000510t20001998nyu    g      000 1 eng d</marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">99051901</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0671036688</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="d">BPL/19</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Inversions :</marc:subfield>
+<marc:subfield code="b">[a novel] /</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="b">Pocket Books,</marc:subfield>
+<marc:subfield code="c">2000, c1998.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">343 p.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="7">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+<marc:subfield code="2">gsafd.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b13547306</marc:subfield>
+<marc:subfield code="b">multi</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bg</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">000510</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00763cam a22002894a 4504</marc:leader>
+<marc:controlfield tag="001">BPL2001021833</marc:controlfield>
+
+<marc:controlfield tag="002">seq00157800</marc:controlfield>
+
+<marc:controlfield tag="003">DLC</marc:controlfield>
+
+<marc:controlfield tag="005">20011003090650.0</marc:controlfield>
+
+<marc:controlfield tag="008">010124t20012000nyu    g      000 1 eng d</marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">2001021833</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0743421914</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DLC</marc:subfield>
+<marc:subfield code="c">DLC</marc:subfield>
+<marc:subfield code="d">BPL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">L66 2001</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="082" ind1="0" ind2="0">
+<marc:subfield code="a">823/.914</marc:subfield>
+<marc:subfield code="2">21</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Look to windward /</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">New York :</marc:subfield>
+<marc:subfield code="b">Pocket Books,</marc:subfield>
+<marc:subfield code="c">2001, c2000.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">x, 369 p.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="7">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+<marc:subfield code="2">gsafd.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b14164498</marc:subfield>
+<marc:subfield code="b">md</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">md</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">010817</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">mde2001/08 ncs nb</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">011008</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">b2001/10/08 b019 cf nb</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00766cam a22002894a 4504</marc:leader>
+<marc:controlfield tag="001">BPL2001021833</marc:controlfield>
+
+<marc:controlfield tag="002">seq00157800</marc:controlfield>
+
+<marc:controlfield tag="003">DLC</marc:controlfield>
+
+<marc:controlfield tag="005">20011003090650.0</marc:controlfield>
+
+<marc:controlfield tag="008">010124t20012000nyu    g      000 1 eng d</marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">2001021833</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0743421914</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DLC</marc:subfield>
+<marc:subfield code="c">DLC</marc:subfield>
+<marc:subfield code="d">BPL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">L66 2001</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="082" ind1="0" ind2="0">
+<marc:subfield code="a">823/.914</marc:subfield>
+<marc:subfield code="2">21</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Look to windward /</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">New York :</marc:subfield>
+<marc:subfield code="b">Pocket Books,</marc:subfield>
+<marc:subfield code="c">2001, c2000.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">x, 369 p.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="7">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+<marc:subfield code="2">gsafd.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b14387360</marc:subfield>
+<marc:subfield code="b">multi</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">md</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">010817</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">mde2001/08 ncs nb</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">011008</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">b2001/10/08 b019 cf nb</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00463cam a22001813  4504</marc:leader>
+<marc:controlfield tag="002">seq00092728</marc:controlfield>
+
+<marc:controlfield tag="008">890314s1989           g          1      </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">89029899</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0-312-02630-7</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">BPL/2</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">The player of games /</marc:subfield>
+<marc:subfield code="c">Iain M. Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="b">St. Martin's Press,</marc:subfield>
+<marc:subfield code="c">c1989.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">309 p.;</marc:subfield>
+<marc:subfield code="c">22 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Science fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b10880793</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">z</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bm</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">2</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">z</marc:subfield>
+<marc:subfield code="g">4</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00910cam a2200313 a 4504</marc:leader>
+<marc:controlfield tag="001">mde98013076</marc:controlfield>
+
+<marc:controlfield tag="002">seq00244917</marc:controlfield>
+
+<marc:controlfield tag="005">19990915152713.0</marc:controlfield>
+
+<marc:controlfield tag="008">980220r19981997nyu    g      000 1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">98013076</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0684853531 :</marc:subfield>
+<marc:subfield code="c">$23.00</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0684853531</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DLC</marc:subfield>
+<marc:subfield code="c">DLC</marc:subfield>
+<marc:subfield code="d">DLC</marc:subfield>
+<marc:subfield code="d">MDE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">S66 1998b</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="082" ind1="0" ind2="0">
+<marc:subfield code="a">823/.914</marc:subfield>
+<marc:subfield code="2">21</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="2">
+<marc:subfield code="a">A song of stone :</marc:subfield>
+<marc:subfield code="b">a novel /</marc:subfield>
+<marc:subfield code="c">Iain Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">New York, NY :</marc:subfield>
+<marc:subfield code="b">Simon &amp; Schuster,</marc:subfield>
+<marc:subfield code="c">[1998], c1997.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">280 p. ;</marc:subfield>
+<marc:subfield code="c">25 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Imaginary wars and battles</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Man-woman relationships</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="7">
+<marc:subfield code="a">Fantasy fiction.</marc:subfield>
+<marc:subfield code="2">gsafd.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Fantasy fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b14280310</marc:subfield>
+<marc:subfield code="b">md</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">md</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">031210</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">2</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">b2003/12/10 b003 cf nb</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">010913</marc:subfield>
+<marc:subfield code="d">g</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">2</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">MDEODC 2001 dj</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>00384nam a2200157   4504</marc:leader>
+<marc:controlfield tag="002">seq00265605</marc:controlfield>
+
+<marc:controlfield tag="008">                                        </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">85021982</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0-395-40048-1</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">BPL/4</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Walking on glass.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a"></marc:subfield>
+<marc:subfield code="b">Houghton Mifflin,</marc:subfield>
+<marc:subfield code="c">1986, c1985.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b10658658</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="940" ind1=" " ind2=" ">
+<marc:subfield code="l">bm</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="b">2</marc:subfield>
+<marc:subfield code="c">000411</marc:subfield>
+<marc:subfield code="d">-</marc:subfield>
+<marc:subfield code="e">a</marc:subfield>
+<marc:subfield code="f">-</marc:subfield>
+<marc:subfield code="g">0</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+<marc:record><marc:leader>01034nam a22003254a 45  </marc:leader>
+<marc:controlfield tag="001">FLC98008355 </marc:controlfield>
+
+<marc:controlfield tag="003">DLC</marc:controlfield>
+
+<marc:controlfield tag="005">20040511131233.0</marc:controlfield>
+
+<marc:controlfield tag="008">980527r19981984nyu    g      000 1 eng  </marc:controlfield>
+
+<marc:datafield tag="010" ind1=" " ind2=" ">
+<marc:subfield code="a">98008355</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="020" ind1=" " ind2=" ">
+<marc:subfield code="a">0684853159 (pbk.)</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DLC</marc:subfield>
+<marc:subfield code="c">DLC</marc:subfield>
+<marc:subfield code="d">DLC</marc:subfield>
+<marc:subfield code="d">CoBoFLC</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="043" ind1=" " ind2=" ">
+<marc:subfield code="a">e-uk-st</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="050" ind1="0" ind2="0">
+<marc:subfield code="a">PR6052.A485</marc:subfield>
+<marc:subfield code="b">W3 1998b</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="082" ind1="0" ind2="0">
+<marc:subfield code="a">823/.914</marc:subfield>
+<marc:subfield code="2">21</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Banks, Iain,</marc:subfield>
+<marc:subfield code="d">1954-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">The wasp factory :</marc:subfield>
+<marc:subfield code="b">a novel /</marc:subfield>
+<marc:subfield code="c">Iain Banks.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="250" ind1=" " ind2=" ">
+<marc:subfield code="a">1st Scribner Paperback Fiction ed. 1998.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">New York, NY :</marc:subfield>
+<marc:subfield code="b">Scribner Paperback Fiction,</marc:subfield>
+<marc:subfield code="c">1998.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">184 p. ;</marc:subfield>
+<marc:subfield code="c">21 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Fathers and sons</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Serial murders</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Teenage boys</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Psychopaths</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="650" ind1=" " ind2="0">
+<marc:subfield code="a">Murderers</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="651" ind1=" " ind2="0">
+<marc:subfield code="a">Scotland</marc:subfield>
+<marc:subfield code="v">Fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="655" ind1=" " ind2="0">
+<marc:subfield code="a">Psychological fiction.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="856" ind1="4" ind2="2">
+<marc:subfield code="z">Publisher description</marc:subfield>
+<marc:subfield code="u">http://www.loc.gov/catdir/description/simon033/98008355.html</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="907" ind1=" " ind2=" ">
+<marc:subfield code="a">.b15715061</marc:subfield>
+<marc:subfield code="b">bm</marc:subfield>
+<marc:subfield code="c">-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="998" ind1=" " ind2=" ">
+<marc:subfield code="a">b2004/07/02 b003 cf nb</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+</marc:collection>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
